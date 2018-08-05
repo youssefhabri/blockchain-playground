@@ -1,0 +1,10 @@
+cargo-features = ["edition"]
+
+[package]
+edition = "2018"
+name = "testing"
+version = "0.1.0"
+authors = ["habri"]
+
+[dependencies]
+sha2 = "0.7.1"
